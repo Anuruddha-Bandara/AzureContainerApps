@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+BRh7KYEg1xspZHy3ncnnrmD2rjNxjaFhtc0K3BnAxGaQWE/jMBUDGF8ZqdFMtCcXp649H26CXHacipL9mY9jw==",
+  "success": true,
+  "projectFilePath": "D:\\Tutorial Practical\\Azure Development\\ToDoAppContainer\\ToDoApp.Frontend\\ToDoApp.Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anuruddha(AnuruddhaB\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\Anuruddha(AnuruddhaB\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

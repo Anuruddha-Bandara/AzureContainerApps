@@ -1,0 +1,11 @@
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Backend\obj\Docker\publish\ToDoApp.Backend.exe
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Backend\obj\Docker\publish\appsettings.Development.json
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Backend\obj\Docker\publish\appsettings.json
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Backend\obj\Docker\publish\ToDoApp.Backend.dll
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Backend\obj\Docker\publish\ToDoApp.Backend.deps.json
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Backend\obj\Docker\publish\ToDoApp.Backend.runtimeconfig.json
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Backend\obj\Docker\publish\ToDoApp.Backend.pdb
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Backend\obj\Docker\publish\Microsoft.OpenApi.dll
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Backend\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Backend\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Backend\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

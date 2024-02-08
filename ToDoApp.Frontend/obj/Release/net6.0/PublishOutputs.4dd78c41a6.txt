@@ -1,0 +1,8 @@
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Frontend\obj\Docker\publish\ToDoApp.Frontend.exe
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Frontend\obj\Docker\publish\appsettings.Development.json
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Frontend\obj\Docker\publish\appsettings.json
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Frontend\obj\Docker\publish\ToDoApp.Frontend.dll
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Frontend\obj\Docker\publish\ToDoApp.Frontend.deps.json
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Frontend\obj\Docker\publish\ToDoApp.Frontend.runtimeconfig.json
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Frontend\obj\Docker\publish\ToDoApp.Frontend.pdb
+D:\Tutorial Practical\Azure Development\ToDoAppContainer\ToDoApp.Frontend\obj\Docker\publish\Newtonsoft.Json.dll

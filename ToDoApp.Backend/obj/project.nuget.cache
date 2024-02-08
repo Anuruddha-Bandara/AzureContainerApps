@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uha3CDloNuYsiUcQgIWgrl6U+HGdwzJj6HhjuTAy7JmF0Tn0fV0G/xgAtGeZwC8QGgpa/0gKomuJ8Ju0G2Tbyw==",
+  "success": true,
+  "projectFilePath": "D:\\Tutorial Practical\\Azure Development\\ToDoAppContainer\\ToDoApp.Backend\\ToDoApp.Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anuruddha(AnuruddhaB\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Anuruddha(AnuruddhaB\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Anuruddha(AnuruddhaB\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\Anuruddha(AnuruddhaB\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Anuruddha(AnuruddhaB\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Anuruddha(AnuruddhaB\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Anuruddha(AnuruddhaB\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

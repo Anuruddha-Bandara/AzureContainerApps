@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome To Back End</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+@if (ViewBag.todo != null)
+{
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Done</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var toDo in ViewBag.todo)
+            {
+                <tr>
+                    <td>@toDo.Id</td>
+                    <td>@toDo.Name</td>
+                    <td>@toDo.Done</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No ToDo items available.</p>
+}
